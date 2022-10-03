@@ -1,0 +1,26 @@
+1
+int a1, a2, a3 ;
+ float f1, f2, f3;
+  bool b1, b2, b3 ;
+  string s1, s2. s3 ;
+  char c1, c2, c3 ;
+  int a[10], b[10] ;
+  string s[10] ;
+int i, j, k;
+
+ListAllVariables();
+
+ListVariabl("s");
+
+void test()
+{
+if ( a ==b)
+  cout << "true"  ;
+else 
+  cout << "false" ;
+}
+
+ListAllFunctions() ;
+
+
+ListFunction( "test" );
